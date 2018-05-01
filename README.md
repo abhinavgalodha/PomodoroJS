@@ -1,5 +1,7 @@
 # PomodoroJS
 
+![](Pomodoro.png)
+
 >A Pomodoro iterative implementation in plain Javascript using ES6.
 
 In each iteration, the refactoring is done to write better code.
